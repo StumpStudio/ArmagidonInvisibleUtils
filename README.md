@@ -1,5 +1,5 @@
   <h1>Hide Nicks Players [Minecraft 1.16.x-1.17]</h1>
-  <h3>Hides the nicks of all players and display them in the actionbar when you click RMB on player</h3>
+  <h3>Hides the nicks of all players and display them in the actionbar</h3>
   
 [![img1](https://img.shields.io/discord/720917120862519347?label=discord&logo=discord&style=for-the-badge)](https://discord.io/stumpstudio)
 
