@@ -14,5 +14,5 @@ Tested on: <a href="https://getbukkit.org/">Spigot</a>, <a href="https://github.
 ## Give it a try ##
 Available at the following options:
 
-* **[GitHub Releases](https://www.spigotmc.org/resources/ignore-achievements-ignore-players-achievements.83439/)** - Download plugin
-* **[GitHub Releases](https://github.com/StumpStudio/IgnoreAchievements/releases/tag/1.1)** - Download source code HideNicksPlayers
+* **[GitHub Releases](https://github.com/StumpStudio/Hide-Nicks-Players/releases)** - Download plugin
+* **[GitHub Releases](https://github.com/StumpStudio/Hide-Nicks-Players/releases)** - Download source code HideNicksPlayers
